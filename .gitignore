@@ -10,10 +10,10 @@ dist/
 *.tsbuildinfo
 
 # Environment variables
-.env
 
 # OS specific files
 .DS_Store
 
 # Temporary directories
 tmp/
+config.bat
